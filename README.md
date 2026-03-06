@@ -1,6 +1,6 @@
 ## Hi, I'm Hilmi Difyeli 👋
 - 🔭 I’m currently studying Computer Engineering in Gazi University.
-- 🐦 Working in TEAM HUMA as UI and Simulation Developer.
+- 🐦 UI and Simulation Developer.
   
 ## 🌐 Socials:
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hilmi-difyeli-52aa04222)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hilmidifyeli@gmail.com) 
